@@ -172,31 +172,31 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
 ### 登壇
 - **DevOpsDays Tokyo 2025**  
   「生成AI時代のソース管理を考える：X as CodeからGitOpsへのDevOps進化論」  
-  [Speaker Deck](https://speakerdeck.com/yuriemori/sheng-cheng-aishi-dai-nososukodoguan-li-wokao-eru-x-as-codekaragitopshenodevopsjin-hua-lun)
+  [https://speakerdeck.com/yuriemori/sheng-cheng-aishi-dai-nososukodoguan-li-wokao-eru-x-as-codekaragitopshenodevopsjin-hua-lun](https://speakerdeck.com/yuriemori/sheng-cheng-aishi-dai-nososukodoguan-li-wokao-eru-x-as-codekaragitopshenodevopsjin-hua-lun)
 
 - **AI Tour Tokyo 2025**  
   「生成AI時代のセキュアCI/CDとソース管理：GitHub Advanced SecurityとCopilotを活用したDevSecOps」  
-  [Speaker Deck](https://speakerdeck.com/yuriemori/cd)
+  [https://speakerdeck.com/yuriemori/cd](https://speakerdeck.com/yuriemori/cd)
 
 - **.NETラボ（2025/01/25）**  
   「DevSecOps入門：Security Development Lifecycleによる開発プロセスのセキュリティ強化」  
-  [Speaker Deck](https://speakerdeck.com/yuriemori/devsecopsru-men-security-development-lifecycleniyorukai-fa-purosesunosekiyuriteiqiang-hua)
+  [https://speakerdeck.com/yuriemori/devsecopsru-men-security-development-lifecycleniyorukai-fa-purosesunosekiyuriteiqiang-hua](https://speakerdeck.com/yuriemori/devsecopsru-men-security-development-lifecycleniyorukai-fa-purosesunosekiyuriteiqiang-hua)
 
 - **TFSUG（2024/12/14）**  
   「Azure PipelinesによるCI/CDとデータベースデプロイの実践」  
-  [Speaker Deck](https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian)
+  [https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian)](https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian)
 
 - **JAZUG for Women（2024/12/06）**  
   「DevOps Beyond Azure DevOps〜Azureサービスで広がるDevOpsの可能性〜」  
-  [Speaker Deck](https://speakerdeck.com/yuriemori/devops-beyond-azure-devops-azuresabisudeguang-garudevopsnoke-neng-xing)
+  [https://speakerdeck.com/yuriemori/devops-beyond-azure-devops-azuresabisudeguang-garudevopsnoke-neng-xing](https://speakerdeck.com/yuriemori/devops-beyond-azure-devops-azuresabisudeguang-garudevopsnoke-neng-xing)
 
 - **Microsoft Developer Day（LT登壇）**  
   「GitHubで実現する開発ライフサイクルの効率化 - 開発生産性とDeveloper Experience -」  
-  [Speaker Deck](https://speakerdeck.com/yuriemori/githubdeshi-xian-surukai-fa-raihusaikurunoxiao-lu-hua)
+  [https://speakerdeck.com/yuriemori/githubdeshi-xian-surukai-fa-raihusaikurunoxiao-lu-hua](https://speakerdeck.com/yuriemori/githubdeshi-xian-surukai-fa-raihusaikurunoxiao-lu-hua)
 
 ### 執筆
 - 技術ブログ（Zenn）: [https://zenn.dev/yuriemori](https://zenn.dev/yuriemori)
 - 書籍執筆中: AZ-400 試験対策書籍（執筆中）
 
 ### その他
-- 過去の登壇スライドまとめ: [Speaker Deckスライド集](https://speakerdeck.com/yuriemori)
+- 過去の登壇スライドまとめ: [https://speakerdeck.com/yuriemori](https://speakerdeck.com/yuriemori)
