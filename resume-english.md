@@ -140,19 +140,19 @@ Awarded Microsoft MVP (DevOps). Active speaker and writer in developer communiti
 
 - **.NET Lab 2025**  
   *\"DevSecOps 101 – Securing the Development Lifecycle\"*  
-  [speakerdeck.com/yuriemori/...](https://speakerdeck.com/yuriemori/devsecopsru-men-security-development-lifecycleniyorukai-fa-purosesunosekiyuriteiqiang-hua)
+  [https://speakerdeck.com/yuriemori/devsecopsru-men-security-development-lifecycleniyorukai-fa-purosesunosekiyuriteiqiang-hua](https://speakerdeck.com/yuriemori/devsecopsru-men-security-development-lifecycleniyorukai-fa-purosesunosekiyuriteiqiang-hua)
 
 - **TFSUG 2024**  
   *\"CI/CD and Database Deployment with Azure Pipelines\"*  
-  [speakerdeck.com/yuriemori/...](https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian)
+  [https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian](https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian)
 
 - **JAZUG for Women 2024**  
   *\"DevOps Beyond Azure DevOps\"*  
-  [speakerdeck.com/yuriemori/...](https://speakerdeck.com/yuriemori/devops-beyond-azure-devops-azuresabisudeguang-garudevopsnoke-neng-xing)
+  [https://speakerdeck.com/yuriemori/devops-beyond-azure-devops-azuresabisudeguang-garudevopsnoke-neng-xing](https://speakerdeck.com/yuriemori/devops-beyond-azure-devops-azuresabisudeguang-garudevopsnoke-neng-xing)
 
 - **Microsoft Developer Day**  
   *\"Streamlining the SDLC with GitHub\"*  
-  [speakerdeck.com/yuriemori/...](https://speakerdeck.com/yuriemori/githubdeshi-xian-surukai-fa-raihusaikurunoxiao-lu-hua)
+  [https://speakerdeck.com/yuriemori/githubdeshi-xian-surukai-fa-raihusaikurunoxiao-lu-hua](https://speakerdeck.com/yuriemori/githubdeshi-xian-surukai-fa-raihusaikurunoxiao-lu-hua)
 
 ---
 
