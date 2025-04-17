@@ -10,7 +10,7 @@
 
 ## サマリー
 Microsoft AzureおよびAzure DevOps/GitHub Enterpriseを活用したDevOps/DevSecOps基盤の構築・導入に強みを持つDevOps Engineer / Solution Architect。  
-プリセールスから技術検証、実装、運用定着支援まで一貫してリードし、開発生産性とDeveloper Experienceの向上に貢献。  
+プリセールスから技術検証、実装、運用定着まで一貫してリードし、開発生産性とDeveloper Experienceの向上を支援。
 GitHub Copilotを活用したSDLCモダナイゼーション、DevOps Platform(Azure DevOps, GitHub Enterprise)のガバナンス設計、エンタープライズにおけるDevOps/DevSecOps Transformationを軸に活動。
 
 Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発環境設計と、金融・エンタープライズ領域への提案・導入経験を豊富に持ち、Microsoft MVP (DevOps) 受賞者として社外でも精力的に活動し、国内外の開発者コミュニティやイベントでの登壇・発信を継続している。
@@ -35,7 +35,7 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
   - Defender for Cloud
 - **セキュリティ / ガバナンス**
   - DevSecOps推進、セキュリティ統合、コードスキャン自動化
-  - GitHub Entepriseのガバナンス設計
+  - GitHub Enterpriseのガバナンス設計
 
 ## 職務経歴
 ### アバナード株式会社 (Avanade Japan): 2021/8～現在
@@ -51,13 +51,13 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
   - Microsoft Azure（App Service, Azure Container Registry, Azure Key Vault, Application Insights, Azure Monitor）
   - Microsoft Defender for Cloud
 
-##### Solution Architect(AI Assited SDLC&DevOps)
+##### Solution Architect(AI Assisted SDLC&DevOps)
 - GitHub Enterprise/Copilot導入のプリセールス活動とオファリング開発
-- ソリューションアーキテクトとして、offering開発・サービスメニュー設計・GitHub Enterpsei Admin/GitHub Copilotのトレーニング設計・提案活動に従事
+- ソリューションアーキテクトとして、オファリング開発・サービスメニュー設計・GitHub Enterprise Admin/GitHub Copilotのトレーニング設計・提案活動に従事
 - GitHubとのアライアンス強化・市場開発（Market Development）
 - GitHub Japan - Avanade JapanのNFR Agreement締結に関与
 - GitHub AustraliaのCSPチームとの連携、事例のローカライズ推進
-- GitHub Well Architected Frameworkdに基づいたGitHub Enterpriseのガバナンス設計およびインナーソース化
+- GitHub Well Architected Frameworkに基づいたGitHub Enterpriseのガバナンス設計およびインナーソース化
 - **技術/スキル**:
   - GitHub Enterprise Cloud
   - GitHub Copilot
@@ -68,8 +68,8 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
 ##### DevOps Engineer, Project Sub Lead
 - 大手保険会社に対する開発プラットフォームおよびプロジェクト管理基盤構築を支援
 - Azure Pipelines, AzureによるCI/CD基盤、DevSecOps基盤の構築
-- SharepointとLogic Appによるドキュメントの自動連携基盤構築
-- 提案においてソリューションブループリント、イテレーション開発でのデリバリ方式についての資料作成
+- SharePointとLogic Appによるドキュメントの自動連携基盤構築
+- 提案においてソリューションブループリント、イテレーション開発でのデリバリー方式についての資料作成
 - サブリードとしてクライアント側POをサポート。リリースプラン設計を主導し、マスタースケジュールの管理、イテレーション開発を推進
 - リリース時のステークホルダーへのプレゼンテーション
 - クライアント側ステークホルダーおよびPOからの信頼を得、by nameでのアサイン継続のリクエストを受ける
@@ -77,7 +77,7 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
   - Azure DevOps
   - Microsoft Azure（App Service, Azure Container Registry, Azure Key Vault, Application Insights, Azure Monitor, Logic App）
   - D365 Project Operations
-  - Sharepoint  
+  - SharePoint  
   - プロジェクト管理
   - アジャイル開発
 
@@ -90,7 +90,7 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
 - **技術/スキル**:
   - GitHub Copilot（Copilot for Business / Enterprise）
   - GitHub Enterprise Cloud
-  - DevOps Transforamtionのオファリング企画・PoC事例ローカライズ
+  - DevOps Transformationのオファリング企画・PoC事例ローカライズ
   - プレゼンテーション・展示会でのGitHub Copilotデモ（Beyond AI Forum, DX EXPO）
   - 英語（Region SDLC Leadへの日本のビジネスアップデートの定期報告や海外チームのアーキテクトとのコミュニケーション）
 
@@ -120,7 +120,7 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
 - D365移行プロジェクトにおいてカスタマイズアプリケーション開発のフロントエンド開発を担当
 - **使用技術・ツール**:
   - React
-  - TypeSrcipt
+  - TypeScript
 
 #### Sr. Analyst（2021年8月〜2022年12月）
 ##### Backend Developer
@@ -168,9 +168,9 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
   Ana〜Sr.Consレベルで、特に顕著な技術スキル・パフォーマンスを示したスタッフに与えられる社内表彰。
 
 ## 最終学歴
-- 同志社大学大学院 文化情報学研究科　理論言語学専攻
- 2018年3月修了
-  - 修士（文化情報学） 
+- 同志社大学大学院 文化情報学研究科 理論言語学専攻  
+  2018年3月修了  
+  - 修士（文化情報学）
 
 ## コミュニティ・社外活動（抜粋）
 ### 登壇
@@ -188,7 +188,7 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
 
 - **TFSUG（2024/12/14）**  
   「Azure PipelinesによるCI/CDとデータベースデプロイの実践」  
-  [https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian)](https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian)
+  [https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian](https://speakerdeck.com/yuriemori/cdtodetabesudepuroinoshi-jian)
 
 - **JAZUG for Women（2024/12/06）**  
   「DevOps Beyond Azure DevOps〜Azureサービスで広がるDevOpsの可能性〜」  
