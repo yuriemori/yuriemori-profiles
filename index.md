@@ -168,7 +168,6 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
   Ana〜Sr.Consレベルで、特に顕著な技術スキル・パフォーマンスを示したスタッフに与えられる社内表彰。
 
 ## コミュニティ・社外活動（抜粋）
-
 ### 登壇
 - **DevOpsDays Tokyo 2025**  
   「生成AI時代のソース管理を考える：X as CodeからGitOpsへのDevOps進化論」  
