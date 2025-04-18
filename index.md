@@ -13,7 +13,7 @@ Microsoft AzureおよびAzure DevOps/GitHub Enterpriseを活用したDevOps/DevS
 プリセールスから技術検証、実装、運用定着まで一貫してリードし、開発生産性とDeveloper Experienceの向上を支援。
 GitHub Copilotを活用したSDLCモダナイゼーション、DevOps Platform(Azure DevOps, GitHub Enterprise)のガバナンス設計、エンタープライズにおけるDevOps/DevSecOps Transformationを軸に活動。
 
-Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発環境設計と、金融・エンタープライズ領域への提案・導入経験を豊富に持ち、Microsoft MVP (DevOps) 受賞者として社外でも精力的に活動し、国内外の開発者コミュニティやイベントでの登壇・発信を継続している。
+Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発環境設計と、金融・エンタープライズ領域への提案・導入経験を豊富に持ち、Microsoft MVP (DevOps) 受賞者として社外でも精力的に活動し、開発者コミュニティやイベントでの登壇・発信を継続している。
 
 ## 主要スキルセット
 - **DevOps / Developer Productivity**
@@ -100,7 +100,7 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
 - Microsoft Entraとの連携によるSAML認証・SSO構成を実装し、GitHub Enterpriseにおけるアクセス制御のセキュリティ設計をリード
 - GitHub Copilot利用におけるポリシー要件（利用範囲、制限、監査性）を整理し、ガバナンス設計に貢献
 - 金融系顧客の厳格な制約条件下で、PoCを成功に導く
-- **使用技術・ツール**:
+- **技術/スキル**:
   - GitHub Enterprise Cloud
   - GitHub Copilot
   - Microsoft Entra ID（SAML認証によるSSO連携）
@@ -110,7 +110,7 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
 - プロジェクトにおけるアジャイル開発実行支援
 - スクラムマスターのトレーニングコンテンツ作成、プロジェクトのスクラムマスター候補者へのトレーニング提供
 - 生成AIアセット作成プロジェクトにおいて、Azure DevOpsを用いた複数チーム・マルチテナント環境のCI/CD設計を支援。
-- **使用技術・ツール**:
+- **技術/スキル**:
   - アジャイル開発（Scrum）
   - Azure DevOps(Azure Boards, Azure Repos, Azure Pipelines)
   - Microsoft Azure(App Service, Azure Key Vault, Microsoft Entra)
@@ -118,7 +118,7 @@ Azure DevOps、GitHub、Microsoft Entra IDを活用したセキュアな開発�
 
 ##### Frontend Developer
 - D365移行プロジェクトにおいてカスタマイズアプリケーション開発のフロントエンド開発を担当
-- **使用技術・ツール**:
+- **技術/スキル**:
   - React
   - TypeScript
 
