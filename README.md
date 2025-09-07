@@ -1,2 +1,2 @@
 以下のGitHub Pageのリンクに公開しています。<br>
-https://yuriemori-org.github.io/yuriemori-profile/
+https://yuriemori.github.io/yuriemori-profiles/
