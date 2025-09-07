@@ -1,5 +1,4 @@
 # Yurie Mori
-
 ## Contact
 - **Email**: yurie.mori@dotcomcrafters.com
 
